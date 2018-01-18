@@ -3,6 +3,7 @@
 [Chroma.js](https://gka.github.io/chroma.js/) is a tiny JavaScript library (14kB) for all kinds of color conversions and color scales.
 
 [![Build Status](https://travis-ci.org/gka/chroma.js.svg?branch=master)](https://travis-ci.org/gka/chroma.js)
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fchroma.js.svg?type=shield)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fchroma.js?ref=badge_shield)
 
 ### Usage
 
@@ -80,6 +81,9 @@ Chroma.js is written by [Gregor Aisch](http://driven-by-data.net).
 
 Released under [BSD license](http://opensource.org/licenses/BSD-3-Clause).
 Versions prior to 0.4 were released under [GPL](http://www.gnu.org/licenses/gpl-3.0).
+
+
+[![FOSSA Status](https://app.fossa.io/api/projects/git%2Bgithub.com%2Fcanv15%2Fchroma.js.svg?type=large)](https://app.fossa.io/projects/git%2Bgithub.com%2Fcanv15%2Fchroma.js?ref=badge_large)
 
 ### Further reading
 
